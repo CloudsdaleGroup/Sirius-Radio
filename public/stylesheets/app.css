@@ -1,0 +1,12 @@
+@import "@material/button/mdc-button";
+html body {
+    background: #222222;
+    color: white;
+}
+.txtbg {
+    background-color: white;
+    color: black;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 5px;
+}
